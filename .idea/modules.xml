@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/17_BinaryFile&amp;Serialization/17_BinaryFile&amp;Serialization.iml" filepath="$PROJECT_DIR$/17_BinaryFile&amp;Serialization/17_BinaryFile&amp;Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Module2_part2.iml" filepath="$PROJECT_DIR$/.idea/Module2_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thuattoantimkiem/Thuattoantimkiem.iml" filepath="$PROJECT_DIR$/Thuattoantimkiem/Thuattoantimkiem.iml" />
     </modules>
