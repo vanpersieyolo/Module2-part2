@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/17_BinaryFile&amp;Serialization/17_BinaryFile&amp;Serialization.iml" filepath="$PROJECT_DIR$/17_BinaryFile&amp;Serialization/17_BinaryFile&amp;Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/19_Srings&amp;Regex/19_Srings&amp;Regex.iml" filepath="$PROJECT_DIR$/19_Srings&amp;Regex/19_Srings&amp;Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/21_DesignPattern/21_DesignPattern.iml" filepath="$PROJECT_DIR$/21_DesignPattern/21_DesignPattern.iml" />
@@ -12,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thuattoantimkiem/Thuattoantimkiem.iml" filepath="$PROJECT_DIR$/Thuattoantimkiem/Thuattoantimkiem.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module2-part2.iml" filepath="$PROJECT_DIR$/.idea/Module2-part2.iml" />
+>>>>>>> 358b0885e3b36c3444a6864c2ad8beb389b30dd8
     </modules>
   </component>
 </project>
