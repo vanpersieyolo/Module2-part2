@@ -9,6 +9,7 @@ public class Main {
         ArrayList<Connection> arr = new ArrayList<>();
         Connection connection = Connection.get_instance();
         Connection connection1 = Connection.get_instance();
-
+        arr.add(connection);
+        System.out.println(arr);
     }
 }
